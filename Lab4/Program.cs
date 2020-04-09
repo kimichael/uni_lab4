@@ -4,8 +4,15 @@ using Lab4.languages;
 
 namespace Lab4
 {
+    /// <summary>
+    /// Класс, отвечающий за четвертую лабораторную работу по ТРПО
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// Точка входа для приложения
+        /// </summary>
+        /// <param name="args">Список аргументов командной строки</param>
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Lab4");
