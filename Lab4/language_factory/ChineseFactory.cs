@@ -5,6 +5,9 @@ using Lab4.resources;
 
 namespace Lab4.language_factory
 {
+    /// <summary>
+    /// Класс, реализующий фабрику китайского языка
+    /// </summary>
     public class ChineseFactory : LanguageFactory
     {
         public override Currency GetCurrency()

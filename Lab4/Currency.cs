@@ -1,6 +1,9 @@
 ﻿using System;
 namespace Lab4
 {
+    /// <summary>
+    /// Класс, инкапсулирующий информацию о денежной единице
+    /// </summary>
     public interface Currency
     {
         /// <summary>
